@@ -1,0 +1,7 @@
+{
+  "name": "ionic-fixed-position-top-right-element-disappears-after-tilt-on-ios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
