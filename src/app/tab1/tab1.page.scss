@@ -1,0 +1,11 @@
+.fixed-top-right {
+  position: fixed;
+  font-size: 60px;
+  top: var(--ion-offset);
+  right: 0;
+  z-index: 1000;
+}
+
+.down-set {
+  top: 140px;
+}
